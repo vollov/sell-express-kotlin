@@ -1,0 +1,5 @@
+## deploy maven project to jforg 
+
+```
+mvn deploy
+```

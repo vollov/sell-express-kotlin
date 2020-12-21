@@ -1,3 +1,3 @@
-rootProject.name = "sells-express"
+rootProject.name = "kiwii-kotlin"
 
-include("commons", "foo")
+include("commons", "eureka", "config")
